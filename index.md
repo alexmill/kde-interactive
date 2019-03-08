@@ -13,6 +13,6 @@ head: |
 
 ## More coming soon!
 
-<iframe width="600" height="600" src="https://alex.miller.im/projects/KDE/plotly_interactive/"></iframe>
+<iframe width="435" height="435" src="https://alex.miller.im/projects/KDE/plotly_interactive/"></iframe>
 
 
